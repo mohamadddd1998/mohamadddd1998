@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👨‍💻 محمد میرزایی | Frontend Developer (React.js)
 
-<!--
-**mohamadddd1998/mohamadddd1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+توسعه‌دهنده فرانت‌اند با بیش از سه سال تجربه در توسعه اپلیکیشن‌های وب با **Next.js، React، TypeScript و TailwindCSS**. در طراحی و پیاده‌سازی رابط‌های کاربری **ریسپانسیو، مقیاس‌پذیر و کاربرمحور** با استفاده از ابزارها و متدولوژی‌های مدرن مهارت دارم. تجربه عملی در **مدیریت State با Redux و Context**، ارتباط با APIها از طریق **React Query** و پیاده‌سازی **SSG، SSR و CSR** در پروژه‌های مختلف داشته‌ام.
 
-Here are some ideas to get you started:
+در پروژه‌های سازمانی، مسئول بررسی و **Code Review** ساختار پروژه‌های قبلی جهت شناسایی باگ‌ها، مشکلات معماری و بهبود زیرساخت فنی بوده‌ام و در فرآیند بازطراحی ساختار پروژه‌ها مشارکت داشته‌ام. همچنین تجربه همکاری تیمی، کمک به توسعه‌دهندگان کم‌تجربه‌تر در رفع باگ و بهبود کیفیت کدنویسی تیم را دارم. به توسعه نرم‌افزار **تمیز، ماژولار و قابل نگهداری** علاقه‌مندم و همواره بر یادگیری مداوم و ارائه راهکارهای مؤثر تمرکز دارم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 راه‌های ارتباطی
+- 📍 اصفهان  
+- 📧 [mohamadmirzaei1998@gmail.com](mailto:mohamadmirzaei1998@gmail.com)  
+- 📱 ۰۹۰۳۸۲۲۹۸۵۷  
+- 🔗 GitHub: https://github.com/mohamadddd1998
+
+---
+
+## 🛠 مهارت‌های فنی
+- **Languages:** JavaScript (ES6+), TypeScript (Type-safe development)
+- **Frontend:** React.js (Hooks, Context API, Lifecycle), Next.js (SSR/SSG/CSR, API Routes, Server Actions)
+- **Styling:** HTML5 (Semantic HTML), CSS3, SASS, TailwindCSS (Responsive & Mobile-first)
+- **State Management:** Redux Toolkit, RTK Query, Zustand, Context API
+- **Data Fetching / API:** RESTful API, JSON, React Query (TanStack Query)
+- **Forms & Validation:** React Hook Form, Zod
+- **Bundling & Build:** Vite, Webpack
+- **Testing:** Vitest, React Testing Library (RTL), Playwright
+- **Project Tooling:** Git/GitHub, npm, Monorepo (npm Workspaces)
+- **PWA:** Service Workers, Manifest, Push Notifications
+- **Other:** Performance Optimization, Error Handling, SEO Fundamentals, Web Accessibility (A11y)
+
+---
+
+## 💼 سوابق شغلی
+
+### توسعه‌دهنده فرانت‌اند (فریلنسر)
+ **اندیشکده پول و ارز (کارفرما: مجموعه یارس) — mcthink.ir :**
+  توسعه پلتفرم خبری با **Next.js** با رعایت دقیق الزامات **سئو تکنیکال** و توسعه پنل مدیریت اختصاصی ادمین با **React**.
+
+**وب‌سایت حزب مردم‌سالاری (کارفرما: مجموعه دکتر مصطفی کواکبیان) —   https://hezb.mardomsalari.ir:**
+  طراحی و پیاده‌سازی وب‌سایت جهت ثبت‌نام کاربران و اطلاع‌رسانی برنامه‌های حزب.
+
+**استارتاپ کادو باکس (کارفرما: استارتاپ) — bd-box-front.vercel.app  :** 
+  توسعه فرانت‌اند پلتفرم فروشگاهی برای خرید و شخصی‌سازی بسته‌های هدیه با تمرکز بر **UX** در فرآیند ثبت سفارش.
+
+---
+
+### توسعه‌دهنده فرانت‌اند — شاخص کنترل (پیمانکار فولاد مبارکه) | دی ۱۴۰۲ - فروردین ۱۴۰۵
+- مشارکت در پیاده‌سازی و توسعه سیستم‌های **پورتال کارکنان، پورتال آموزش و سیستم تغذیه** فولاد مبارکه  
+- پیاده‌سازی و توسعه سیستم‌های **رزرواسیون مراکز تفریحی، جذب و استخدام، پورتال پیمانکاران، رزرو بسته‌های معیشتی و اسلایدساز هوش مصنوعی**
+- بررسی و تحلیل طرح‌های **Figma** و ارائه راهکارهای بهینه برای رفع چالش‌های ساختاری و منطقی در پیاده‌سازی فرانت‌اند
+
+**بهبود، ریفکتور و بازطراحی زیرساخت پروژه‌ها:**
+- مهاجرت کامل پروژه‌ها به **TypeScript** و اعمال **Type-checking** دقیق
+- بهینه‌سازی معماری فرانت‌اند و مدیریت Stateهای سرور با **React Query** (افزایش سرعت توسعه و کاهش باگ‌های Runtime)
+- مهندسی مجدد زیرساخت با رویکرد **Monorepo** با استفاده از **npm Workspaces** برای سازمان‌دهی بهتر کد و مدیریت ساده‌تر وابستگی‌ها  
+- پیاده‌سازی **Design System** مستقل و لایه **Shared Logic (Base)** جهت ارتقای ماژولاریتی و Clean Code
+- پیاده‌سازی قابلیت **PWA** جهت نصب‌پذیری و بهبود تجربه کاربری در دستگاه‌های مختلف
+
+---
+
+### توسعه‌دهنده فرانت‌اند — شرکت Orod | شهریور ۱۴۰۲ - دی ۱۴۰۲
+توسعه و تحویل بیش از **۷ پلتفرم تحت وب** (پزشکی، فروشگاهی، داشبوردهای سازمانی و سامانه‌های مدیریتی) در بازه زمانی فشرده.
+
+**سایت دندانپزشکی زعفرانیه — https://dentalzaferaniyeh.com**  
+  پیاده‌سازی استراتژی‌های رندرینگ **CSR/SSR/SSG** در Next.js، استفاده از `sitemap.xml` و `robots.txt` برای بهینه‌سازی SEO (بهبود رتبه در نتایج گوگل)
+
+**سایت کالای خواب زئوس**  
+  توسعه با Next.js و TailwindCSS، پیاده‌سازی **Dynamic Routes** با Next App Router و ادغام نقشه تعاملی با **Leaflet**
+
+**سایت فروشگاهی لوازم خانگی**  
+  توسعه فروشگاه اینترنتی با Next.js و Redux شامل فیلتر پیشرفته محصولات (دسته‌بندی/رنگ/سایز)، سبد خرید، کد تخفیف و امکانات رایج فروشگاهی
+
+**سایت ابریشم‌تک**  
+  توسعه با Next.js و TypeScript، پیاده‌سازی احراز هویت **OTP**، مدیریت State کاربر با Context، توسعه پنل کاربری و ادمین، سیستم تیکت و مدیریت کاربران
+
+**سایت دهیاری شهرکرد**  
+  توسعه وب‌سایت با Next.js و Bootstrap
+
+**پروژه هتل‌داری رک‌اسمارت**  
+  توسعه سامانه مدیریت هتل‌داری با React و Redux
+
+**پنل دستیار کسب‌وکار نیپون — https://nipon.ir/login**  
+  توسعه پنل مدیریتی با React و Ant Design شامل ساخت کارت ویزیت، Protected Routes، پیاده‌سازی **Infinite Scroll** و لیست‌های صفحه‌بندی‌شده تودرتو  
+  + توسعه سیستم ارسال پیامک و مدیریت تعامل با مشتریان
+
+---
+
+## 🎓 تحصیلات | ۱۳۹۵ - ۱۳۹۹
+- **کارشناسی مهندسی برق** | دانشگاه اصفهان
